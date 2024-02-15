@@ -1,0 +1,3 @@
+I am taking CMSC320 since I am interested in learning more about python, 
+data science, and ML practices. It also doesn't hurt that I am required to 
+take this course for the ML concentration for my CS Major!
